@@ -15,6 +15,7 @@ Ce projet permet de relier un serveur Minecraft au chat d'un salon Discord, dans
 * Un bot Discord avec les permissions d'accès aux messages
 * Accès RCON activé sur votre serveur Minecraft
 * Accès au fichier `latest.log` de Minecraft (via `tail`)
+* Accès SSH ou autre a la machine. Sera Difficilement Réalisable uniquement avec Pterodactyl
 
 ## Installation
 
