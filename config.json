@@ -1,0 +1,10 @@
+{
+  "discordToken": "VOTRE_TOKEN_DISCORD",
+  "discordChannelId": "ID_DU_SALON_DISCORD",
+  "webhookUrl": "URL_DU_WEBHOOK_DISCORD",
+  "rcon": {
+    "host": "ADRESSE_IP_DU_SERVEUR",
+    "port": 25575,
+    "password": "VOTRE_MOT_DE_PASSE_RCON"
+  }
+}
