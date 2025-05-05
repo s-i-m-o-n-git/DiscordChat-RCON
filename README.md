@@ -1,4 +1,4 @@
-# DiscordChat-RCON
+# DiscordChat-RCON ( NOT RELIABLE / PAS FIABLE )
 
 Ce projet permet de relier un serveur Minecraft au chat d'un salon Discord, dans les deux sens. Les messages envoyés sur Discord apparaissent dans Minecraft, et les messages du chat Minecraft apparaissent dans un salon Discord via un webhook.
 
